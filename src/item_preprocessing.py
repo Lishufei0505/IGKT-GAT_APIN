@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import config
 
-
+# nihso 
 
 def tag_to_vector(tags):
     tag_lsit = [0]*188
